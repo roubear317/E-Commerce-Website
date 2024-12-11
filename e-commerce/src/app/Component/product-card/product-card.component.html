@@ -1,0 +1,52 @@
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+ 
+  <div
+    class="max-w-full h-[400px] rounded-lg shadow-lg border border-gray-200 p-4 hover:shadow-xl transition-shadow duration-300 flex flex-col relative"
+    *ngFor="let item of products"
+  >
+  <a [routerLink]="['/Products', item.id]">
+    <div
+      *ngIf="item.isBestSeller"
+      class="absolute top-4 right-4 bg-red-500 text-white text-xs font-bold px-3 py-1 rounded-full shadow-md"
+    >
+      Bestseller
+    </div>
+
+    <img
+      src="{{ item.photo[0].url }}"
+      alt="Product Image"
+      class="w-full h-48 object-contain rounded-t-lg"
+    />
+    <div class="p-4 flex flex-col justify-between flex-grow">
+      <h3 class="text-lg font-semibold text-gray-800">
+        {{ getFirstThreeWords(item.name) }}
+      </h3>
+      <p class="text-green-500 font-bold mt-2">
+        {{ item.price | currency }} Egy
+      </p>
+      <div class="flex items-center mt-2">
+        <div class="flex text-yellow-500">
+          <svg
+            class="w-4 h-4 fill-current"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 20 20"
+          >
+            <path
+              d="M10 15l5.392 3.356-1.293-5.705 4.393-3.762-5.804-.486L10 3.28 7.313 8.404l-5.804.486 4.393 3.762-1.293 5.705z"
+            />
+          </svg>
+        </div>
+        <span class="ml-2 text-sm text-gray-500">{{ item.rating }}</span>
+      </div>
+      <div class="my-4 flex gap-2">
+        <button
+          class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition"
+        >
+          Add to Cart
+        </button>
+      </div>
+    </div>
+  </a>
+  </div>
+
+</div>

@@ -1,0 +1,24 @@
+
+<app-main-slider></app-main-slider>
+<app-seconed-slider></app-seconed-slider>
+
+
+
+<div class="container">
+
+    <p> New Arrivals </p>
+
+<div class="buttons flex justify-end space-x-4 mb-6">
+
+<button value="Electronics" (click)="GetSpecificCategory($event)">Electronics</button>
+<button value="Books" (click)="GetSpecificCategory($event)">Books</button>
+<button value="Toys" (click)="GetSpecificCategory($event)">Toys</button>
+<button value="Clothing" (click)="GetSpecificCategory($event)">Clothing</button>
+<button value="Perfumes" (click)="GetSpecificCategory($event)">Perfumes</button>
+
+</div>
+
+</div>
+
+
+<app-product-card [products]="selectedCategoryProducts" ></app-product-card>

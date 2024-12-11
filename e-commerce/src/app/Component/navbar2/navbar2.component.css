@@ -1,0 +1,14 @@
+/* إضافة class group للـ button */
+#dropdownNavbarLink:hover + #dropdownNavbar {
+    display: block; /* إظهار الدروب داون عند الـ hover */
+  }
+  
+  /* إخفاء الدروب داون بشكل افتراضي */
+  #dropdownNavbar {
+    display: none; /* إخفاء الدروب داون عند عدم الـ hover */
+  }
+  
+  #dropdownNavbarLink:hover ~ #dropdownNavbar {
+    display: block; /* إظهار الدروب داون عند الـ hover على الزر */
+  }
+  
