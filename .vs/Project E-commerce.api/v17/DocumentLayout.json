@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0645\u0634\u0631\u0648\u0639 Angular\\Project E-commerce.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6204043E-0897-400C-B803-6CEFF1D15B8C}|Project E-commerce\\Project E-commerce.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 angular\\project e-commerce.api\\project e-commerce\\extentionservice\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6204043E-0897-400C-B803-6CEFF1D15B8C}|Project E-commerce\\Project E-commerce.csproj|solutionrelative:project e-commerce\\extentionservice\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6204043E-0897-400C-B803-6CEFF1D15B8C}|Project E-commerce\\Project E-commerce.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 angular\\project e-commerce.api\\project e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6204043E-0897-400C-B803-6CEFF1D15B8C}|Project E-commerce\\Project E-commerce.csproj|solutionrelative:project e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6204043E-0897-400C-B803-6CEFF1D15B8C}|Project E-commerce\\Project E-commerce.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 angular\\project e-commerce.api\\project e-commerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6204043E-0897-400C-B803-6CEFF1D15B8C}|Project E-commerce\\Project E-commerce.csproj|solutionrelative:project e-commerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6204043E-0897-400C-B803-6CEFF1D15B8C}|Project E-commerce\\Project E-commerce.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 angular\\project e-commerce.api\\project e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6204043E-0897-400C-B803-6CEFF1D15B8C}|Project E-commerce\\Project E-commerce.csproj|solutionrelative:project e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF56EBE8-9B8B-47A6-9796-5C431A935253}|E-commerce.EF\\E-commerce.EF.csproj|d:\\\u0645\u0634\u0631\u0648\u0639 angular\\project e-commerce.api\\e-commerce.ef\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF56EBE8-9B8B-47A6-9796-5C431A935253}|E-commerce.EF\\E-commerce.EF.csproj|solutionrelative:e-commerce.ef\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 Angular\\Project E-commerce.api\\Project E-commerce\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Project E-commerce\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 Angular\\Project E-commerce.api\\Project E-commerce\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Project E-commerce\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAgwEoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:08:21.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 Angular\\Project E-commerce.api\\Project E-commerce\\Program.cs",
+              "RelativeDocumentMoniker": "Project E-commerce\\Program.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 Angular\\Project E-commerce.api\\Project E-commerce\\Program.cs",
+              "RelativeToolTip": "Project E-commerce\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:03:05.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 Angular\\Project E-commerce.api\\Project E-commerce\\ExtentionService\\IdentityService.cs",
+              "RelativeDocumentMoniker": "Project E-commerce\\ExtentionService\\IdentityService.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 Angular\\Project E-commerce.api\\Project E-commerce\\ExtentionService\\IdentityService.cs",
+              "RelativeToolTip": "Project E-commerce\\ExtentionService\\IdentityService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwCUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:51:48.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 Angular\\Project E-commerce.api\\Project E-commerce\\appsettings.json",
+              "RelativeDocumentMoniker": "Project E-commerce\\appsettings.json",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 Angular\\Project E-commerce.api\\Project E-commerce\\appsettings.json",
+              "RelativeToolTip": "Project E-commerce\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T18:43:40.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\\u0645\u0634\u0631\u0648\u0639 Angular\\Project E-commerce.api\\E-commerce.EF\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "E-commerce.EF\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\\u0645\u0634\u0631\u0648\u0639 Angular\\Project E-commerce.api\\E-commerce.EF\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "E-commerce.EF\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:25:29.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

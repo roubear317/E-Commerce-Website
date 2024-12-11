@@ -1,0 +1,37 @@
+[
+    {
+        "PaymentId": 1,
+        "OrderId": 1,
+        "Amount": 743.51,
+        "PaymentMethod": "Credit Card",
+        "PaymentDate": "2021-06-01T07:18:06 -02:00"
+    },
+    {
+        "PaymentId": 2,
+        "OrderId": 4,
+        "Amount": 185.4,
+        "PaymentMethod": "PayPal",
+        "PaymentDate": "2024-07-14T03:48:27 -03:00"
+    },
+    {
+        "PaymentId": 3,
+        "OrderId": 2,
+        "Amount": 403.41,
+        "PaymentMethod": "Credit Card",
+        "PaymentDate": "2023-04-27T04:43:53 -02:00"
+    },
+    {
+        "PaymentId": 4,
+        "OrderId": 1,
+        "Amount": 584.22,
+        "PaymentMethod": "PayPal",
+        "PaymentDate": "2020-11-27T10:55:24 -02:00"
+    },
+    {
+        "PaymentId": 5,
+        "OrderId": 3,
+        "Amount": 681.19,
+        "PaymentMethod": "Credit Card",
+        "PaymentDate": "2022-05-29T05:02:32 -02:00"
+    }
+]

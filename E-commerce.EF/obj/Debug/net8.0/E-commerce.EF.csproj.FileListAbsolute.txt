@@ -1,0 +1,17 @@
+D:\مشروع Angular\Project E-commerce.api\E-commerce.EF\bin\Debug\net8.0\E-commerce.EF.deps.json
+D:\مشروع Angular\Project E-commerce.api\E-commerce.EF\bin\Debug\net8.0\E-commerce.EF.runtimeconfig.json
+D:\مشروع Angular\Project E-commerce.api\E-commerce.EF\bin\Debug\net8.0\E-commerce.EF.dll
+D:\مشروع Angular\Project E-commerce.api\E-commerce.EF\bin\Debug\net8.0\E-commerce.EF.pdb
+D:\مشروع Angular\Project E-commerce.api\E-commerce.EF\bin\Debug\net8.0\E-Commerce.Core.dll
+D:\مشروع Angular\Project E-commerce.api\E-commerce.EF\bin\Debug\net8.0\E-Commerce.Core.pdb
+D:\مشروع Angular\Project E-commerce.api\E-commerce.EF\obj\Debug\net8.0\E-commerce.EF.csproj.AssemblyReference.cache
+D:\مشروع Angular\Project E-commerce.api\E-commerce.EF\obj\Debug\net8.0\E-commerce.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\مشروع Angular\Project E-commerce.api\E-commerce.EF\obj\Debug\net8.0\E-commerce.EF.AssemblyInfoInputs.cache
+D:\مشروع Angular\Project E-commerce.api\E-commerce.EF\obj\Debug\net8.0\E-commerce.EF.AssemblyInfo.cs
+D:\مشروع Angular\Project E-commerce.api\E-commerce.EF\obj\Debug\net8.0\E-commerce.EF.csproj.CoreCompileInputs.cache
+D:\مشروع Angular\Project E-commerce.api\E-commerce.EF\obj\Debug\net8.0\E-commer.6CDDF0CE.Up2Date
+D:\مشروع Angular\Project E-commerce.api\E-commerce.EF\obj\Debug\net8.0\E-commerce.EF.dll
+D:\مشروع Angular\Project E-commerce.api\E-commerce.EF\obj\Debug\net8.0\refint\E-commerce.EF.dll
+D:\مشروع Angular\Project E-commerce.api\E-commerce.EF\obj\Debug\net8.0\E-commerce.EF.pdb
+D:\مشروع Angular\Project E-commerce.api\E-commerce.EF\obj\Debug\net8.0\E-commerce.EF.genruntimeconfig.cache
+D:\مشروع Angular\Project E-commerce.api\E-commerce.EF\obj\Debug\net8.0\ref\E-commerce.EF.dll

@@ -1,0 +1,280 @@
+[
+  {
+    "Id": 1,
+    "Name": "adipisicing",
+    "Description": "Qui veniam cupidatat exercitation nisi labore culpa magna ad aliqua magna consequat nostrud.",
+    "Price": 603.33,
+    "Discount": 15.48,
+    "Rating": 1.8,
+    "ReviewsCount": 384,
+    "Stock": 94,
+    "IsNew": false,
+    "IsBestSeller": true,
+    "IsInWishlist": false,
+    "IsInCart": true,
+    "CategoryId": 4,
+    "photo": [
+      {
+        "Id": 4,
+        "PublicId": 1783,
+        "Url": "https://picsum.photos/200/300?random=4",
+        "Title": "aliqua",
+        "ProductId": 1
+    }, {
+      "Id": 8,
+      "PublicId": 7886,
+      "Url": "https://picsum.photos/200/300?random=8",
+      "Title": "ea",
+      "ProductId": 1
+  }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "velit",
+    "Description": "Ipsum eiusmod laborum culpa ullamco amet qui commodo proident in veniam irure mollit sunt incididunt.",
+    "Price": 435.89,
+    "Discount": 39.22,
+    "Rating": 4.2,
+    "ReviewsCount": 284,
+    "Stock": 48,
+    "IsNew": true,
+    "IsBestSeller": true,
+    "IsInWishlist": true,
+    "IsInCart": false,
+    "CategoryId": 5,
+    "photo": [
+      {
+        "Id": 9,
+        "PublicId": 1940,
+        "Url": "https://picsum.photos/200/300?random=9",
+        "Title": "officia",
+        "ProductId": 2
+    },{
+      "Id": 13,
+      "PublicId": 2537,
+      "Url": "https://picsum.photos/200/300?random=13",
+      "Title": "sit",
+      "ProductId": 2
+  }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "amet",
+    "Description": "Nulla irure sit in occaecat tempor ex cupidatat aliquip ex nisi aute.",
+    "Price": 490.16,
+    "Discount": 39.38,
+    "Rating": 4.8,
+    "ReviewsCount": 48,
+    "Stock": 15,
+    "IsNew": true,
+    "IsBestSeller": true,
+    "IsInWishlist": false,
+    "IsInCart": true,
+    "CategoryId": 2,
+    "photo": [
+      {
+        "Id": 14,
+        "PublicId": 5925,
+        "Url": "https://picsum.photos/200/300?random=14",
+        "Title": "proident",
+        "ProductId": 3
+    },
+    {
+        "Id": 15,
+        "PublicId": 9451,
+        "Url": "https://picsum.photos/200/300?random=15",
+        "Title": "id",
+        "ProductId": 3
+    }
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "cillum",
+    "Description": "Ad ea officia id voluptate enim magna anim.",
+    "Price": 431.15,
+    "Discount": 9.57,
+    "Rating": 4.1,
+    "ReviewsCount": 118,
+    "Stock": 97,
+    "IsNew": true,
+    "IsBestSeller": false,
+    "IsInWishlist": true,
+    "IsInCart": false,
+    "CategoryId": 1,
+    "photo": [
+      {
+        "Id": 5,
+        "PublicId": 6006,
+        "Url": "https://picsum.photos/200/300?random=5",
+        "Title": "deserunt",
+        "ProductId": 4
+    }
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "laborum",
+    "Description": "Ea excepteur consequat occaecat enim incididunt officia sit fugiat nulla ullamco reprehenderit aliquip.",
+    "Price": 787.92,
+    "Discount": 19.83,
+    "Rating": 2.8,
+    "ReviewsCount": 223,
+    "Stock": 97,
+    "IsNew": true,
+    "IsBestSeller": true,
+    "IsInWishlist": false,
+    "IsInCart": true,
+    "CategoryId": 1,
+    "photo": [
+      {
+        "Id": 10,
+        "PublicId": 9927,
+        "Url": "https://picsum.photos/200/300?random=10",
+        "Title": "ea",
+        "ProductId": 5
+    },
+    {
+        "Id": 11,
+        "PublicId": 6298,
+        "Url": "https://picsum.photos/200/300?random=11",
+        "Title": "dolore",
+        "ProductId": 5
+    }
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "ullamco",
+    "Description": "Tempor aliquip incididunt elit fugiat enim velit fugiat anim commodo excepteur elit sunt et nisi.",
+    "Price": 697.68,
+    "Discount": 11.6,
+    "Rating": 3.3,
+    "ReviewsCount": 431,
+    "Stock": 20,
+    "IsNew": true,
+    "IsBestSeller": false,
+    "IsInWishlist": false,
+    "IsInCart": false,
+    "CategoryId": 4,
+    "photo": [
+      {
+        "Id": 16,
+        "PublicId": 9451,
+        "Url": "https://picsum.photos/200/300?random=16",
+        "Title": "opp",
+        "ProductId": 6
+    }
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "culpa",
+    "Description": "Cupidatat consectetur pariatur nulla pariatur duis adipisicing non veniam consequat excepteur.",
+    "Price": 116.64,
+    "Discount": 30.61,
+    "Rating": 1.1,
+    "ReviewsCount": 54,
+    "Stock": 56,
+    "IsNew": false,
+    "IsBestSeller": false,
+    "IsInWishlist": true,
+    "IsInCart": true,
+    "CategoryId": 1,
+    "photo": [
+      {
+        "Id": 2,
+        "PublicId": 7289,
+        "Url": "https://picsum.photos/200/300?random=2",
+        "Title": "dolor",
+        "ProductId": 7
+    }, {
+      "Id": 12,
+      "PublicId": 2774,
+      "Url": "https://picsum.photos/200/300?random=12",
+      "Title": "occaecat",
+      "ProductId": 7
+  }
+    ]
+  },
+  {
+    "Id": 8,
+    "Name": "officia",
+    "Description": "Pariatur aute enim adipisicing adipisicing nostrud.",
+    "Price": 234.27,
+    "Discount": 27.41,
+    "Rating": 2.5,
+    "ReviewsCount": 184,
+    "Stock": 30,
+    "IsNew": false,
+    "IsBestSeller": true,
+    "IsInWishlist": true,
+    "IsInCart": false,
+    "CategoryId": 3,
+    "photo": [
+      {
+        "Id": 1,
+        "PublicId": 1101,
+        "Url": "https://picsum.photos/200/300?random=1",
+        "Title": "esse",
+        "ProductId": 8
+    },{
+      "Id": 7,
+      "PublicId": 3276,
+      "Url": "https://picsum.photos/200/300?random=7",
+      "Title": "amet",
+      "ProductId": 8
+  }
+    ]
+  },
+  {
+    "Id": 9,
+    "Name": "id",
+    "Description": "Aliqua ullamco laboris do ad ad cupidatat.",
+    "Price": 851.65,
+    "Discount": 34.83,
+    "Rating": 2.7,
+    "ReviewsCount": 68,
+    "Stock": 68,
+    "IsNew": true,
+    "IsBestSeller": false,
+    "IsInWishlist": true,
+    "IsInCart": false,
+    "CategoryId": 3,
+    "photo": [
+      {
+        "Id": 3,
+        "PublicId": 2102,
+        "Url": "https://picsum.photos/200/300?random=3",
+        "Title": "pariatur",
+        "ProductId": 9
+    }
+    ]
+  },
+  {
+    "Id": 10,
+    "Name": "occaecat",
+    "Description": "Adipisicing labore laboris non sint aliquip minim.",
+    "Price": 265.58,
+    "Discount": 41.81,
+    "Rating": 2.5,
+    "ReviewsCount": 58,
+    "Stock": 25,
+    "IsNew": true,
+    "IsBestSeller": true,
+    "IsInWishlist": false,
+    "IsInCart": true,
+    "CategoryId": 2,
+    "photo": [
+      {
+        "Id": 6,
+        "PublicId": 1200,
+        "Url": "https://picsum.photos/200/300?random=6",
+        "Title": "sunt",
+        "ProductId": 10
+    }
+    ]
+  }
+]
